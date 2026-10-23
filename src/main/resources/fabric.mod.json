@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "tom_pearl",
+  "version": "${version}",
+  "name": "Tom Pearl",
+  "description": "Том Пёрл ест фикалии и получает супер-баффы. Игрок тоже может.",
+  "authors": [
+    "you"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.tompearl.TomPearlMod"
+    ],
+    "client": [
+      "com.tompearl.client.TomPearlClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

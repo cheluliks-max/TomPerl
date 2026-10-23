@@ -1,0 +1,13 @@
+{
+  "item.tom_pearl.fikaliya": "Фикалия",
+  "item.tom_pearl.tom_pearl_spawn_egg": "Яйцо призыва Тома Пёрла",
+  "entity.tom_pearl.tom_pearl": "Том Пёрл",
+  "effect.tom_pearl.tom_mode": "Режим Тома Пёрла",
+  "itemGroup.tom_pearl": "Том Пёрл",
+  "key.tom_pearl.dash": "Рывок Тома",
+  "key.tom_pearl.wave": "Ударная волна",
+  "key.tom_pearl.cloud": "Вонючее облако",
+  "category.tom_pearl": "Том Пёрл",
+  "msg.tom_pearl.need_mode": "Сначала съешь фикалию!",
+  "msg.tom_pearl.cooldown": "Способность перезаряжается"
+}

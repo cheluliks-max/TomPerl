@@ -1,0 +1,13 @@
+{
+  "item.tom_pearl.fikaliya": "Fikaliya",
+  "item.tom_pearl.tom_pearl_spawn_egg": "Tom Pearl Spawn Egg",
+  "entity.tom_pearl.tom_pearl": "Tom Pearl",
+  "effect.tom_pearl.tom_mode": "Tom Pearl Mode",
+  "itemGroup.tom_pearl": "Tom Pearl",
+  "key.tom_pearl.dash": "Tom Dash",
+  "key.tom_pearl.wave": "Shockwave",
+  "key.tom_pearl.cloud": "Stink Cloud",
+  "category.tom_pearl": "Tom Pearl",
+  "msg.tom_pearl.need_mode": "Eat a fikaliya first!",
+  "msg.tom_pearl.cooldown": "Ability is recharging"
+}
